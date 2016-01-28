@@ -1,0 +1,68 @@
+{
+    "color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
+    "default_encoding": "UTF-8",
+    "detect_indentation": false,
+    "dpi_scale": 1.0,
+    "fallback_encoding": "UTF-8",
+    "file_exclude_patterns":
+    [
+        "*.pyc",
+        "*.pyo",
+        "*.exe",
+        "*.dll",
+        "*.obj",
+        "*.o",
+        "*.a",
+        "*.lib",
+        "*.so",
+        "*.dylib",
+        "*.ncb",
+        "*.sdf",
+        "*.suo",
+        "*.pdb",
+        "*.idb",
+        ".DS_Store",
+        "*.class",
+        "*.psd",
+        "*.db",
+        "*.sublime-workspace",
+        ".git*"
+    ],
+    "folder_exclude_patterns":
+    [
+        ".svn",
+        ".git",
+        ".hg",
+        "CVS",
+        "tmp",
+        "tmp/class-*",
+        "tmp/es_*",
+        "tmp/jshinter*",
+        "tmp/replace_*",
+        "tmp/static_compiler*",
+        "tmp/template_compiler*",
+        "tmp/tree_merger*",
+        "tmp/coffee_script*",
+        "tmp/concat-tmp*",
+        "tmp/export_tree*",
+        "tmp/sass_compiler*",
+        "node_modules"
+    ],
+    "font_options":
+    [
+        "no_italic"
+    ],
+    "font_size": 13,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "rulers":
+    [
+        80,
+        100
+    ],
+    "show_encoding": true,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true
+}
