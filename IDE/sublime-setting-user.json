@@ -1,8 +1,8 @@
 {
     "color_scheme": "Packages/Color Scheme - Legacy/Cobalt.tmTheme",
-    "default_encoding": "UTF-8",
     "copy_with_empty_selection": false,
-    "detect_indentation": true,
+    "default_encoding": "UTF-8",
+    "detect_indentation": false,
     "dpi_scale": 1.0,
     "draw_white_space": "selection",
     "ensure_newline_at_eof_on_save": true,
@@ -13,18 +13,31 @@
         ".hg",
         "CVS",
         "tmp",
-        "node_modules"
+        "node_modules",
+        "dist"
     ],
     "font_face": "WenQuanYi Micro Hei Mono",
-    "font_size": 11,
+    "font_size": 13,
     "ignored_packages":
     [
         "Vintage"
     ],
+    "match_brackets": false,
+    "match_brackets_angle": false,
+    "match_brackets_braces": true,
+    "match_brackets_content": true,
+    "match_brackets_square": true,
+    "match_tags": true,
+    "rulers":
+    [
+        120,
+        80
+    ],
     "show_definitions": false,
     "show_encoding": true,
-    "theme": "Default.sublime-theme",
-    "translate_tabs_to_spaces": true,
+    "show_line_endings": true,
     "tab_size": 4,
+    "theme": "Adaptive.sublime-theme",
+    "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true
 }
